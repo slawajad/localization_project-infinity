@@ -1,0 +1,13 @@
+{
+  "gui.darkmodeeverywhere.dark_mode": "Тёмный режим",
+  "gui.darkmodeeverywhere.light_mode": "Светлый режим",
+  "gui.darkmodeeverywhere.perfect_dark": "Полная темнота",
+  "gui.darkmodeeverywhere.less_perfect_dark": "Умеренная темнота",
+  "gui.darkmodeeverywhere.toasted_light": "Тёплый светлый режим",
+  "gui.tooltip.darkmodeeverywhere.shader_switch_tooltip": " * Удерживайте Shift, чтобы сразу перейти в светлый режим",
+  "config.darkemodeeverywhere.method_shader_blacklist": "Список строк вида class:method (методов отрисовки), к которым тёмный шейдер не применяется.\\nУкажите класс и метод или любую часть этой строки, чтобы отключить для них тёмный шейдер.\\nНапример, «renderHunger» достаточно для блокировки «net.minecraftforge.client.gui.overlay.ForgeGui:renderFood». Можно использовать любую из этих строк.",
+  "config.darkemodeeverywhere.method_shader_dump": "Если включено, каждые 5 секунд в журнал записываются методы отрисовки интерфейсов, к которым применялся тёмный шейдер.\\nЖурнал содержит строки вида class:method, например «net.minecraftforge.client.gui.overlay.ForgeGui:renderFood».\\nЭта настройка помогает найти методы отрисовки интерфейсов, которые вы хотите добавить в список исключений.",
+  "config.darkemodeeverywhere.button_position_x": "Отступ от левого края интерфейса по оси X в пикселях",
+  "config.darkemodeeverywhere.button_position_y": "Отступ от нижнего края интерфейса по оси Y в пикселях",
+  "config.darkmodeeverywhere.enabled": "Включено"
+}

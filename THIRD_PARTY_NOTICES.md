@@ -7,12 +7,26 @@ following projects.
 - **Better Fusion Reactor 1.4.15** by igentuman and contributors. The `bfr` translation adapts the bundled Russian locale. [Bundled locale](https://github.com/igentuman/Better-Fusion-Reactor/blob/cddce1500be094e9b6dedb3d6ab26975d777846b/src/main/resources/assets/bfr/lang/ru_ru.json) · [MIT license](https://github.com/igentuman/Better-Fusion-Reactor/blob/cddce1500be094e9b6dedb3d6ab26975d777846b/LICENSE).
 - **Blood Magic 3.3.8** by WayofTime and contributors. The Russian locale is an adaptation of the original English locale. [Original strings](https://github.com/WayofTime/BloodMagic/blob/35f0188665e648d981095b6933cc75b0ca96eca5/src/generated/resources/assets/bloodmagic/lang/en_us.json) · [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 - **Botany Pots Tiers 6.0.2** by Ultramega. Russian locale by tencsei, taken from 6.0.3 under LGPL-2.1-only. [Original translation](https://github.com/starforcraft/Botany-Pots-Tiers/commit/17ad0d74ae576c7330e16bfab292f68ba73bef7e) · [License copy](mods/BotanyPotsTiers-Forge-1.20.1-6.0.2/LICENSE).
+- **Brandon's Core** by brandon3055. [Upstream terms](https://github.com/brandon3055/BrandonsCore/blob/5450c533fce838c86858862813624d876507d289/LICENSE.md).
+- **Bridging Mod** by Will Scully. [Upstream MIT license](https://github.com/squeeglii/BridgingMod/blob/849ee6a69bdafe51b89c04475af5edd023389194/LICENSE).
+- **CobbleForDays** copyright LexManos. [Upstream LGPL-2.1-only notice](https://github.com/LexManos/CobbleForDays/blob/8ab5c6f93de359ede5142e49d50e89d5a998abd7/LICENSE-header.txt) · [LGPL 2.1 text](mods/BotanyPotsTiers-Forge-1.20.1-6.0.2/LICENSE).
+- **CodeChickenLib** copyright (C) 2013 Chicken-Bones. [Upstream LGPL 2.1 license](https://github.com/TheCBProject/CodeChickenLib/blob/3b43c7fe055aaae997038910c78f4761fdee90cc/LICENSE) · [LGPL 2.1 text](mods/BotanyPotsTiers-Forge-1.20.1-6.0.2/LICENSE).
+- **Common Capabilities** by Cyclops. [Upstream MIT license](https://github.com/CyclopsMC/CommonCapabilities/blob/55de795f35e979a6c730666bac6b1aa5c2e24637/LICENSE.txt).
+- **Dark Mode Everywhere** by Buuz135. [Upstream MIT license](https://github.com/Buuz135/DarkModeEverywhere/blob/c680e73aea859d95686f5bcf64c066e20bd997ee/LICENSE).
+- **Default World Type** by ChaoticTrials and contributors. [Upstream Apache-2.0 license](https://github.com/ChaoticTrials/DefaultWorldType/blob/1f2bc2e38f2742680e36d4d8df845a68da0a5d55/LICENSE) · [License copy](mods/DefaultWorldType-1.20.1-4.0.5/LICENSE).
+- **Draconic Additions** by FoxMcloud5655. [Upstream terms](https://github.com/FoxMcloud5655/Draconic-Additions/blob/1730143d1e3fea4695eba73c90f7a07cce3ac4d6/LICENSE).
 
 ## MIT License
 
 Copyright (c) 2025 Yanny (Advanced Loot Info)
 
 Copyright (c) 2022 (Better Fusion Reactor)
+
+Copyright (c) 2023 Will Scully (Bridging Mod)
+
+Copyright (c) 2015 Cyclops (Common Capabilities)
+
+Copyright (c) 2022 Buuz135 (Dark Mode Everywhere)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
