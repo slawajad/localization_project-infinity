@@ -1,0 +1,232 @@
+%#red%**Version 0.0.52.0**%#%
+
+MAKE A BACKUP AND UPDATE TO A NEW INSTANCE!!!
+
+Mod Info:
+CrazyAE2 will get updated to the newest version in 0.0.53.0.
+This will break all old crazyAE2 multiblocks!
+- MODS UPDATED:
+    - Way too long to list fully here, please see https://github.com/BOLTMAGIC/Project-Infinity-0.1/blob/main/mods_info.md#00520
+    - Botanical Extra Machinery Reforged
+      - fix rune crafting sometimes giving back more runes then used
+      - fix the upgrades to the altar not being able to craft mob seeds
+      - Greenhouse will always auto output all of it's mana to connected AE2 network
+    - Enchant Limiter
+      - added a config to disable the limit upo obtaining an achievement (Infinity 1)
+    - Evolved Mekanism APT Only
+      - Fix Turkish OS language making the mod not load (THX to MiniMaxi)
+      - Fix upgrading an alloying factory with a tier installer (e.g. basic → advanced) deleting installed upgrades, input/output items and progress. (THX to Knozyy)
+      - Added four new alloying factories when Mekanism Extras is installed: Absolute, Supreme, Cosmic and Infinite (11 / 13 / 15 / 17 processes). (THX to Knozyy)
+      - When Mekanism Extras is installed, the alloyer and the basic → ultimate alloying factories accept Extras' creative upgrade. With it installed the machine uses no energy and finishes an operation every tick, the same behaviour as Extras' own machines. (THX to Knozyy)
+      - Antimatter Protomolecular Transmutator can now accept items before the chemical
+    - Masterfull Machinery
+      - Waaaaaay to many things to list here. You will be surprised by how much everything is different (Knozyy gets all the credits here)
+- MODS ADDED:
+    - FastChunkGen
+    - Functional Storage: Creative Limiter 
+    - IFUE x Functional Storage Dupe Fix
+    - ServerWarashi (Observable alternative)
+- MODS GETTING REMOVED in 0.0.53.0:
+    - Born in Chaos
+    - Born In Configuration
+    - Refined Storage
+    - Dimensional Pockets II
+    - Dynamic Dungeons
+    - RFTools Dim
+    - RFTools Power
+    - RFTools Storage
+    - RFTools Control
+----------
+Recipe changes and fixes:
+- removed EMC from Extra HNN data model (thx to bacopn)
+- fixed wither token bug (thx to tahir 09)
+- added recipe for ME linker and input gateway (Masterful Machinery)
+- changed woot tier 3-5 vitality fluid value (need more fluid) (thx to exzials)
+- changed recipe for treasure shelf from inf 8 to inf 1 (thx to potatoman999)
+- replaced portable 256k fe cell with 64k normal fe cell (not portable) (thx to therealpilpoh)
+- added blasting recipes to all kubejs ores
+- removed AE2 processors recipes using Redstone Blocks from the Mechanical Empowerer multiblock so it stops conflicting with other recipes; with the new tiers of Alloyers, it should be fast enough
+- added a block recipe for Prismalium Blocks in the Alloyer
+- added the Fake Philosopher's Stone 
+- boosted Raw Eclipse Alloy recipe in Auto Crusher multiblocks
+- fixed custom Allthemodium hammers not working for exdeorum block breaking recipes
+- removed Refined Storage recipes to prepare for the removal of the mod in 0.0.53.0
+- removed RFToolsDim recipes to prepare for the removal of the mod in 0.0.53.0
+- remove Infinity 1 from Eclipe Alloy items crafts
+- remove recipe for laserio filter count to fix dupe
+- removed recipe for molecularmanipulator event horizon singularity hub
+- added snow --> snowball recipe in mekanism crusher (thx to Clood)
+- fixed tags for sky steel ingot (thx to Arkantos)
+- fixed some tags (thx to atothek for the code)
+- changed recipe for rune of water and rune of winter so you can craft them faster (thx to hi-5979)
+- added cyclic magma and honey to Nuclearcraft melter (thx to hi-5979)
+- added a reordered WOOT questline (thx to Clood)
+- removed resource foundry multiblock
+- removed tiny tnt (thx to DidaS)
+- enabled AppliedE recipes again (thx to Kyo for the fix)
+- replaced phil stone recipes with the fake phil stone
+- changed insanium recipe dupe in the EssenceForge
+
+Quest changes:
+- Removed dedicated Naquadah Reactor questline, added it to the Mekanism questline
+- Reworked the Naquadah Reactor quests, should be easy to follow now
+- Removed Refined Storage questline to prepare for the removal of the mod in 0.0.53.0
+- Reworked Masterful Machinery questline (credits to Sn0wye)
+
+Other changes:
+- Auto Crusher KubeJS Code Cleaning (credits to oTurquoise !)
+- removed recipes in KubeJS from mods that no longer are in the modpack
+- custom Allthemodium hammers now break ExDeorum blocks with the correct speed
+- fixed Rose gold / Manyullyn / Cobalt seeds (essences) not appearing in JEI (credits to Supa'Spider and Anto)
+- gave Power Flowers and Collectors EMC
+- new Nuclearcraft Reactor in the MBTool (credits to Tuxedo !)
+- added missing lang keys in "kubejs\assets\kubejs\lang\en us.json"
+- remove the port requirement for Masterful Machinery machines, any port will form the multiblocks (you still need to have a big enough port for the recipe you are trying to run !)
+- MBTool will no longer place any BloodMagic runes if you don't have the one defined by the Structure
+- MBTool will be able to place the highest 2 tiers of Item Input/Output if you don't have the one defined by the Structure
+- fixed MBTool structures
+- speed up Apothecary machines
+- twilightforest meef stroganoff stacks to 64
+- Time in a Bottle recipe is easier
+- Replace the floor of the Antimatter Protomolecular Transmutator multiblocks in the MBTool with Structural Glass so it's cheaper
+- changed Essenceforge recipes visual a bit (tell me what you think)
+----------
+----------
+----------
+%#red%**Version 0.0.51.4-hotfix-2**%#%
+
+MAKE A BACKUP AND UPDATE TO A NEW INSTANCE!!!
+
+Mod Info:
+- MODS Removed:
+    - ProjectCell Reforked
+- MODS Added:
+    - ProjectCell version 1.0.1
+----------
+----------
+----------
+%#red%**Version 0.0.51.4-hotfix-1**%#%
+
+MAKE A BACKUP AND UPDATE TO A NEW INSTANCE!!!
+
+Mod Info:
+- MODS Updated:
+    - Botanical Machinery Extra Reforked from 1.3.0.1 to 1.3.0.2 to fix the Alfheim Markets eating Infinity 2
+    - ProjectCell Reforked from 1.0.2 to 1.0.3 to fix it not working
+- MODS Downgraded:
+    - JEI from 15.59.0.210 to 15.56.0.205 to fix Grindstone recipes crashing
+    - Polymorph from 0.49.11 to 0.49.10 because 0.49.11 wants a higher version of JEI
+- MODS INFO:
+    - CrazyAE2 will get updated to the newest version soon.
+    - this will break all old crazyAE2 multiblocks!
+- MODS GETTING REMOVED in 0.0.53.0:
+    - Born in Chaos
+----------
+Recipe changes and fixes:
+- Shattered Singularity/Ender Ingot recipes in Mechanical Empowerer Tier 2 now uses the Ender Pearl Dust from Thermal
+----------
+----------
+----------
+%#red%**Version 0.0.51.4**%#%
+
+MAKE A BACKUP AND UPDATE TO A NEW INSTANCE!!!
+
+Mod Info:
+- MODS ADDED:
+    - Universal Bulk Storage Cell (thx to Kyo)
+    - Advanced Core Info (ACI) (Dependency of ALI)
+    - replaced Explorers Compass Edited with Explorers Compass Enhance (same item ID)
+    - replaced ProjectCell with ProjectCell Reforked (my fork)
+    - replaced Radium with Radium Reforged
+- MODS INFO:
+    - CrazyAE2 will get updated to the newest version soon.
+    - this will break all old crazyAE2 multiblocks!
+- MODS REMOVED:
+    - More Dragon Eggs (thx to grinchfan22)
+- MODS GETTING REMOVED in 0.0.53.0:
+    - Born in Chaos
+----------
+Recipe changes and fixes:
+- ALL OmniSequence multiblocks got changed. you need to build them again!
+- fixed blizz, blitz and basalz recipe in the melter (nuclearcraft) (thx to CLISHÉ)
+- changed layout for the Loot Fabrication Plant Tier 1 (need crimson dragonstone block and V1 and not V4 ExtraHNN blocks. removed Merger Camera blocks)
+- added a new mechanical empowerer tier 2 (needs infinity 4 block)
+    - added reaction chamber recipes to the mechanical empowerer multiblock Tier 2
+- removed recipe for ifeu big dissolution chamber
+- changed values for matter in the sequence array multiblock
+- added a recipe in the Fire Attuned Multiblock to get liquid malic acid (thx to nogweii)
+- changed woot magmator to use T1 for T2 and so on (thx to SilverSoul)
+- changed creative fluid tank recipe (from ifeu fluid_transfer to industrialforegoing fluid sieving) (thx to Edward)
+- added a recipe in the fire attuned multiblock for energized crystal dust
+- lowered chance to get polonium pellets from dynamic dungeon
+- changed densest neutron collector recipe (easier)
+- removed Tier 6 Blood Altar
+- changed recipes for Woot upgrades
+- disabled Player Accessor from JDT
+- changed recipe for RFToolsDim Researcher and Inscriber
+- changed recipe for universal bulk cell
+- ultimate capacitor got a new texture (thx to mrwobbe1e)
+- fixed ATM ore drop chance in Utimate Miner
+- changed ultimate seed philosophers stone to transmutation table
+----------
+----------
+----------
+%#red%**Version 0.0.51.3 HOTFIX**%#%
+
+MAKE A BACKUP AND UPDATE TO A NEW INSTANCE!!!
+
+Recipe changes and fixes:
+- fixed JEI crash
+- blockboosters cant tick solar flux or EMC flowers now
+- changed recipe for Bulk Item Cells
+----------
+----------
+----------
+%#red%**Version 0.0.51.3**%#%
+
+MAKE A BACKUP AND UPDATE TO A NEW INSTANCE!!!
+
+If you want the new EnchantmentLimiter settings you need to place the "enchantlimiter-server.toml" from defaultconfig into your saves serverconfig folder
+
+Mod Info:
+- MODS ADDED:
+    - Team ProjectE Fork (from me its replacing the original mod Team ProjectE) (TPS saving)
+----------
+Recipe changes and fixes:
+- fixed miner and solar panels recipe voidminer (thx to droxowo)
+- changed pattern sites in the sequence array multiblock from 20 to 200
+- changed recipe for reaction chamber (way easier)
+----------
+Mod changes and fixes:
+- Masterful Machinery fixed priority setter and improved energy consumption handling
+- reenabled entity acceleration card 1-4 for the ECO - Integrated Working Station
+----------
+----------
+----------
+%#red%**Version 0.0.51.2**%#%
+
+MAKE A BACKUP AND UPDATE TO A NEW INSTANCE!!!
+
+If you want the new EnchantmentLimiter settings you need to place the "enchantlimiter-server.toml" from defaultconfig into your saves serverconfig folder
+
+Mod Info:
+- MODS ADDED:
+    - ProjectCell (will replace AppliedE)
+    - OmniSequence Transfinite (AE2 Addon with big endgame multiblocks)
+    - Nolijium (thx to DSans404) (you now can disabled particles again)
+    - Fastvancements (removed Icterine last update over 2.5 years ago)
+    - Collections Of Optimizations (thats really the name)
+----------
+Recipe changes and fixes:
+- fixed ur-ghast HNN model, need to kill him 2 times not 6 times
+- fixed cobblestone and water recipe in the Inf Cell factory (thx to s n.)
+- fixed Applied Flux portable FE cell recipes
+- fixed cryotheum solution
+- fixed ultimate seed recipe (put the phil stone more in the mid)
+- changed recipe for reaction chamber
+- changed recipe for blood generator so there is no NBT
+- removed all appliedE recipes
+    - use the new ProjectCell Item
+- added loot fabrication plant tier 2
+- fix prediction chamber NBT
+- added a recipe for time crystals
