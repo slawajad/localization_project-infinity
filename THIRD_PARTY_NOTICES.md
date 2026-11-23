@@ -4,7 +4,7 @@ These notices cover the Russian translations of the English strings from the
 following projects.
 
 - **Advanced Loot Info 2.5.0** by Yanny. [Source and MIT license](https://github.com/yanny7/AdvancedLootInfo/blob/2c6667c/LICENSE).
-- **Better Fusion Reactor 1.4.15** by igentuman and contributors. [Source and MIT license](https://github.com/igentuman/Better-Fusion-Reactor/blob/cddce1500be094e9b6dedb3d6ab26975d777846b/LICENSE).
+- **Better Fusion Reactor 1.4.15** by igentuman and contributors. The `bfr` translation adapts the bundled Russian locale. [Bundled locale](https://github.com/igentuman/Better-Fusion-Reactor/blob/cddce1500be094e9b6dedb3d6ab26975d777846b/src/main/resources/assets/bfr/lang/ru_ru.json) · [MIT license](https://github.com/igentuman/Better-Fusion-Reactor/blob/cddce1500be094e9b6dedb3d6ab26975d777846b/LICENSE).
 - **Blood Magic 3.3.8** by WayofTime and contributors. The Russian locale is an adaptation of the original English locale. [Original strings](https://github.com/WayofTime/BloodMagic/blob/35f0188665e648d981095b6933cc75b0ca96eca5/src/generated/resources/assets/bloodmagic/lang/en_us.json) · [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 ## MIT License
