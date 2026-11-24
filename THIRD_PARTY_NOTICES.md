@@ -20,6 +20,8 @@ following projects.
 - **FramedBlocks 9.4.3** by XFactHD and contributors. The Russian locale adapts a later upstream translation for 9.4.3. [Upstream Russian locale](https://github.com/XFactHD/FramedBlocks/blob/46c7391888572d09c512d5001eebff1646b1cb0e/src/main/resources/assets/framedblocks/lang/ru_ru.json) · [LGPL 3 text](mods/FramedBlocks-9.4.3/LICENSE) · [GPL 3 text](mods/FramedBlocks-9.4.3/COPYING).
 - **Iglee's Library 1.2.7** by iglee42. [Upstream MIT license](https://github.com/iglee42/IgleeLibrary/blob/d0d3521a0f5a0af95cf72a61f2fff5bf06f02fbc/LICENSE).
 - **Integrated Crafting 1.4.9** by Cyclops. [Upstream MIT license](https://github.com/CyclopsMC/IntegratedCrafting/blob/a2bbca9d520fd243dc19417eb98c3b44273db129/LICENSE.txt).
+- **Integrated Dynamics 1.31.3** by Cyclops and the Crowdin contributors. The core Russian locale adapts the upstream Crowdin translation for 1.31.3. [Upstream Russian locale](https://github.com/CyclopsMC/IntegratedDynamics/blob/9dd53a3bd899192af6da1b8d90c2b30f0ff5520d/src/main/resources/assets/integrateddynamics/lang/ru_ru.json) · [Upstream MIT license](https://github.com/CyclopsMC/IntegratedDynamics/blob/69ea239d03828fc76b0384dcc487af391fd9e6bf/LICENSE.txt).
+- **Integrated Dynamics Compat** by Cyclops. [Upstream MIT license](https://github.com/CyclopsMC/IntegratedDynamics-Compat/blob/4a139c26a17f07984635cf001c039e93b9e27f99/LICENSE.txt).
 
 ## MIT License
 
@@ -29,7 +31,7 @@ Copyright (c) 2022 (Better Fusion Reactor)
 
 Copyright (c) 2023 Will Scully (Bridging Mod)
 
-Copyright (c) 2015 Cyclops (Common Capabilities, Integrated Crafting)
+Copyright (c) 2015 Cyclops (Common Capabilities, Integrated Crafting, Integrated Dynamics, Integrated Dynamics Compat)
 
 Copyright (c) 2022 Buuz135 (Dark Mode Everywhere)
 
