@@ -15,6 +15,11 @@ following projects.
 - **Dark Mode Everywhere** by Buuz135. [Upstream MIT license](https://github.com/Buuz135/DarkModeEverywhere/blob/c680e73aea859d95686f5bcf64c066e20bd997ee/LICENSE).
 - **Default World Type** by ChaoticTrials and contributors. [Upstream Apache-2.0 license](https://github.com/ChaoticTrials/DefaultWorldType/blob/1f2bc2e38f2742680e36d4d8df845a68da0a5d55/LICENSE) · [License copy](mods/DefaultWorldType-1.20.1-4.0.5/LICENSE).
 - **Draconic Additions** by FoxMcloud5655. [Upstream terms](https://github.com/FoxMcloud5655/Draconic-Additions/blob/1730143d1e3fea4695eba73c90f7a07cce3ac4d6/LICENSE).
+- **Extreme Sound Muffler 3.51** by LeoBeliik and contributors. [Upstream LGPL 3 terms](https://github.com/LeoBeliik/ExtremeSoundMuffler/blob/ba747fa4b3a912df2f24492b8912c61b19397324/LICENSE.txt) · [LGPL 3 text](mods/FramedBlocks-9.4.3/LICENSE) · [GPL 3 text](mods/FramedBlocks-9.4.3/COPYING).
+- **FastWorkbench 8.0.4** by Brennan Ward. [Upstream MIT license](https://github.com/Shadows-of-Fire/FastWorkbench/blob/6067232be8a8f02b5455d3009abcbff8ce63892c/LICENSE).
+- **FramedBlocks 9.4.3** by XFactHD and contributors. The Russian locale adapts a later upstream translation for 9.4.3. [Upstream Russian locale](https://github.com/XFactHD/FramedBlocks/blob/46c7391888572d09c512d5001eebff1646b1cb0e/src/main/resources/assets/framedblocks/lang/ru_ru.json) · [LGPL 3 text](mods/FramedBlocks-9.4.3/LICENSE) · [GPL 3 text](mods/FramedBlocks-9.4.3/COPYING).
+- **Iglee's Library 1.2.7** by iglee42. [Upstream MIT license](https://github.com/iglee42/IgleeLibrary/blob/d0d3521a0f5a0af95cf72a61f2fff5bf06f02fbc/LICENSE).
+- **Integrated Crafting 1.4.9** by Cyclops. [Upstream MIT license](https://github.com/CyclopsMC/IntegratedCrafting/blob/a2bbca9d520fd243dc19417eb98c3b44273db129/LICENSE.txt).
 
 ## MIT License
 
@@ -24,9 +29,13 @@ Copyright (c) 2022 (Better Fusion Reactor)
 
 Copyright (c) 2023 Will Scully (Bridging Mod)
 
-Copyright (c) 2015 Cyclops (Common Capabilities)
+Copyright (c) 2015 Cyclops (Common Capabilities, Integrated Crafting)
 
 Copyright (c) 2022 Buuz135 (Dark Mode Everywhere)
+
+Copyright (c) 2019 Brennan Ward (FastWorkbench)
+
+Copyright (c) 2024 iglee42 (Iglee's Library)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
