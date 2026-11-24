@@ -22,6 +22,12 @@ following projects.
 - **Integrated Crafting 1.4.9** by Cyclops. [Upstream MIT license](https://github.com/CyclopsMC/IntegratedCrafting/blob/a2bbca9d520fd243dc19417eb98c3b44273db129/LICENSE.txt).
 - **Integrated Dynamics 1.31.3** by Cyclops and the Crowdin contributors. The core Russian locale adapts the upstream Crowdin translation for 1.31.3. [Upstream Russian locale](https://github.com/CyclopsMC/IntegratedDynamics/blob/9dd53a3bd899192af6da1b8d90c2b30f0ff5520d/src/main/resources/assets/integrateddynamics/lang/ru_ru.json) · [Upstream MIT license](https://github.com/CyclopsMC/IntegratedDynamics/blob/69ea239d03828fc76b0384dcc487af391fd9e6bf/LICENSE.txt).
 - **Integrated Dynamics Compat** by Cyclops. [Upstream MIT license](https://github.com/CyclopsMC/IntegratedDynamics-Compat/blob/4a139c26a17f07984635cf001c039e93b9e27f99/LICENSE.txt).
+- **Integrated Mekanism 1.1.0** by Cyclops. [Upstream MIT license](https://github.com/CyclopsMC/IntegratedMekanism/blob/e78a4e2a32c95d41c724d9b42ac48a8018261e2c/LICENSE.txt).
+- **Integrated Scripting 1.0.19** by Cyclops. [Upstream MIT license](https://github.com/CyclopsMC/IntegratedScripting/blob/2e1fae3a04a81367706cf273af3ecc9ccc58e2e1/LICENSE.txt).
+- **Integrated Terminals 1.7.0** by Cyclops and the translation contributors. The Russian locale adapts the upstream Russian translation for 1.7.0. [Upstream Russian locale](https://github.com/CyclopsMC/IntegratedTerminals/blob/b47dc3406c4d2b44e1882ba48752636a43cb14f0/src/main/resources/assets/integratedterminals/lang/ru_ru.json) · [Upstream MIT license](https://github.com/CyclopsMC/IntegratedTerminals/blob/efeffcbe3361ec3375a36ad1ac156bc3dc91259a/LICENSE.txt).
+- **Integrated Terminals Compat** by Cyclops. [Upstream MIT license](https://github.com/CyclopsMC/IntegratedTerminals-Compat/blob/fd0976ef63a4fbee1e1dfea7257cc0db03926fe3/LICENSE.txt).
+- **Integrated Tunnels 1.10.1** by Cyclops and the Crowdin contributors. The Russian locale adapts the upstream Crowdin translation for 1.10.1. [Upstream Russian locale](https://github.com/CyclopsMC/IntegratedTunnels/blob/81e7ae45736525c3d8a0f685e20db9954966374f/src/main/resources/assets/integratedtunnels/lang/ru_ru.json) · [Upstream MIT license](https://github.com/CyclopsMC/IntegratedTunnels/blob/ab189dd5f75716231f0bd8f9bbf0e19a920e1a95/LICENSE.txt).
+- **Just Another Void Dimension 5.0.1** by nanite and contributors. [Upstream English locale](https://github.com/nanite/JAVD/blob/cc9a7459443be936423b85aa20ce30b154d8d980/Common/src/generated/resources/assets/javd/lang/en_us.json) · [Upstream terms](https://github.com/nanite/JAVD/blob/cc9a7459443be936423b85aa20ce30b154d8d980/LICENSE).
 
 ## MIT License
 
@@ -31,7 +37,7 @@ Copyright (c) 2022 (Better Fusion Reactor)
 
 Copyright (c) 2023 Will Scully (Bridging Mod)
 
-Copyright (c) 2015 Cyclops (Common Capabilities, Integrated Crafting, Integrated Dynamics, Integrated Dynamics Compat)
+Copyright (c) 2015 Cyclops (Common Capabilities, Integrated Crafting, Integrated Dynamics, Integrated Dynamics Compat, Integrated Mekanism, Integrated Scripting, Integrated Terminals, Integrated Terminals Compat, Integrated Tunnels)
 
 Copyright (c) 2022 Buuz135 (Dark Mode Everywhere)
 

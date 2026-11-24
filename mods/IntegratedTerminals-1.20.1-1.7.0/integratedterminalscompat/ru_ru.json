@@ -1,0 +1,13 @@
+{
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.jeisync": "Синхронизация поиска с JEI",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.jeisync.info": "Синхронизирует поле поиска с JEI.",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.emisync": "Синхронизация поиска с EMI",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.emisync.info": "Синхронизирует поле поиска с EMI.",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.reisync": "Синхронизация поиска с REI",
+  "gui.integratedterminalscompat.terminal_storage.craftinggrid.reisync.info": "Синхронизирует поле поиска с REI.",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craftable": "Предметы, доступные для автокрафта",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craftable_partial": "Предметы, доступные для частичного автокрафта",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.missing": "Недостающие предметы",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craft.info": "Щёлкните с зажатым Ctrl, чтобы запустить автокрафт",
+  "gui.integratedterminalscompat.terminal_storage.jei.transfer.craft.info_cmd": "Щёлкните с зажатым Cmd, чтобы запустить автокрафт"
+}

@@ -1,0 +1,6 @@
+{
+  "biome.javd.void": "Пустота",
+  "block.javd.portal_block": "Портал в пустоту",
+  "javd.invalid.pos": "Не удалось найти подходящее место для портала",
+  "javd.invalid.world": "Не удалось найти мир «%s»"
+}
